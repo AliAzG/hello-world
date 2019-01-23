@@ -1,6 +1,1 @@
-# hello-world
-The beginning
-one 
-two
-three
-I'm testing!
+A simple python code using tweepy
