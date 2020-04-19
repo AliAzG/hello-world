@@ -1,2 +1,1 @@
-# hello-world
-The beginning
+A simple python code using tweepy
